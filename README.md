@@ -21,6 +21,6 @@ The system is designed for applications where the robot's position and orientati
 3. **Magnetic Field Map:** A magnetic field map is generated in a narrow ±10° range along the dipole direction of the magnet. This map is used as the measurement model for the UKF.
 4. **Deep Learning Model:** The magnetic field map is generated using a deep learning model, trained in Python, and then implemented on an embedded system using ONXXRuntime-GPU for real-time inference.
 5. **Control Loop:** The UKF estimates the robot’s position and orientation, while a proportional controller adjusts the magnet’s orientation to continuously track the robot.
-
+## Video
 [![Watch the video](https://img.youtube.com/vi/7kWq72qKpBU/0.jpg)](https://youtu.be/7kWq72qKpBU)
 
