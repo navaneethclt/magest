@@ -26,3 +26,12 @@ The system is designed for applications where the robot's position and orientati
 ## Video
 [![Watch the video](https://img.youtube.com/vi/7kWq72qKpBU/0.jpg)](https://youtu.be/7kWq72qKpBU)
 
+## Video 
+[![Watch the video](https://img.youtube.com/vi/PayYmm7wJ9s/0.jpg)](https://youtu.be/PayYmm7wJ9s)
+
+This video showcases the permanent magnet actively tracking the robot, even in the absence of line-of-sight visibility. It effectively demonstrates the accuracy and reliability of the estimation system.
+
+
+
+
+
