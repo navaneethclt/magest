@@ -1,5 +1,5 @@
 # magest
-# High-Precision Position Estimation System using Actively Controlled Magnetic Field
+# High-Precision Pose Estimation System using Actively Controlled Magnetic Field
 
 ## Overview
 This repository contains the implementation of a high-precision position and orientation estimation system for robots operating in environments where traditional line-of-sight-based methods (such as vision-based tracking) are ineffective. The system uses an actively controlled magnetic field, leveraging a permanent magnet, Anisotropic Magnetoresistive (AMR) sensors, and an Unscented Kalman Filter (UKF) for state estimation.
