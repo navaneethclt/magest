@@ -11,7 +11,7 @@ The system is designed for applications where the robot's position and orientati
 - **Active Magnet Control:** The magnet's orientation is actively controlled to track the robot's movement.
 - **2D Position & Orientation Estimation:** The system currently estimates 2D position and orientation, with plans for future 3D extension.
 - **Magnetic Field Mapping:** Magnetic field maps are generated using deep learning, enabling precise state estimation.
-- **Real-Time Operation:** The system operates in real-time, leveraging deep learning for model inference and using NVIDIA's TensorRT framework for optimization.
+- **Real-Time Operation:** The system operates in real-time, leveraging deep learning for model inference and using ONNXXRuntime-GPU framework for optimization.
 - **Unscented Kalman Filter (UKF):** The UKF is used to estimate the robot’s radial distance, orientation, and pointing error from the magnet, ensuring precise tracking.
 
 ## System Setup
