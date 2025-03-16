@@ -13,6 +13,8 @@ The system is designed for applications where the robot's position and orientati
 - **Magnetic Field Mapping:** Magnetic field maps are generated using deep learning, enabling precise state estimation.
 - **Real-Time Operation:** The system operates in real-time, leveraging deep learning for model inference and using ONNXXRuntime-GPU framework for optimization.
 - **Unscented Kalman Filter (UKF):** The UKF is used to estimate the robot’s radial distance, orientation, and pointing error from the magnet, ensuring precise tracking.
+- **Multithreading:** Implemented multithreading for control loop and data acquisition occur simultaneously 
+
 
 ## System Setup
 
